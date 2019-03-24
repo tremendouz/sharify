@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "630610095288",
+    "firebase_url": "https://sharify-8ee12.firebaseio.com",
+    "project_id": "sharify-8ee12",
+    "storage_bucket": "sharify-8ee12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630610095288:android:6b0b48ff4a930dcb",
+        "android_client_info": {
+          "package_name": "com.example.sharify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630610095288-5sib1q9k171t0t0ip1bhus318cvfo84p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZEqY3mfxKlDO0r5UOy9WDIyWkelu8VBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
